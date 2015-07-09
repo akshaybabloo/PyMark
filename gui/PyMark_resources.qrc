@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>PyMark_ico_32x32.png</file>
+  </qresource>
+  <qresource prefix="Button Icons">
+    <file>table41.png</file>
+    <file>bold17.png</file>
+    <file>italic6.png</file>
+    <file>letteru.png</file>
+    <file>list3.png</file>
+    <file>numbered8.png</file>
+    <file>py_cent.png</file>
+    <file>py_just.png</file>
+    <file>py_left.png</file>
+    <file>py_right.png</file>
+  </qresource>
+</RCC>
